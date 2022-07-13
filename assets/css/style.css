@@ -147,6 +147,10 @@ input {
   outline: none;
 }
 
+.main {
+  overflow-x: hidden;
+}
+
 .section {
   padding: 4.5rem 0 2.5rem;
 }
